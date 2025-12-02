@@ -10,13 +10,16 @@ const About = () => {
                 <div className="about-content">
                     <div className="about-card">
                         <p>
-                            I am a creative developer who loves building beautiful and functional websites.
-                            I specialize in React and modern CSS, and I'm always learning new things.
-                            When I'm not coding, you can find me exploring new coffee shops or reading a good book.
+                            I’m a Computer Engineering graduate with experience across several well-established organizations, including AYESAŞ, QNB Finansbank, HAVELSAN, and Innova.
+                            Working in diverse environments has helped me develop strong adaptability, clear communication skills
+                            and a solid understanding of how large teams collaborate toward a common goal.
                         </p>
                         <p>
-                            My goal is to create digital experiences that bring joy to users. I believe in
-                            clean code, accessible design, and a touch of whimsy.
+                            Outside of work, I’m always exploring new ideas, improving myself, and staying curious.
+                            I believe in continuous learning, disciplined teamwork, and creating value wherever I am.
+                        </p>
+                        <p>
+                            My goal is to contribute to meaningful projects that have a positive impact—both today and in the future.
                         </p>
                     </div>
                 </div>
