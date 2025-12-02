@@ -18,7 +18,7 @@ const Hero = () => {
                 <div className="hero-image">
                     <div className="blob"></div>
                     {/* Placeholder for user image */}
-                    <img src="/images/profile_photo.png" alt="Profile" className="profile-img" />
+                    <img src={`${import.meta.env.BASE_URL}images/profile_photo.png`} alt="Profile" className="profile-img" />
                 </div>
             </div>
             <div className="custom-shape-divider-bottom-1668170000">
