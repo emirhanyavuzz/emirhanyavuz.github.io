@@ -28,10 +28,8 @@ Bu proje GitHub Pages üzerinden yayınlanmaktadır.
 
 Branch: gh-pages
 
-URL: https://kullaniciadi.github.io/
- (veya projeye göre düzenle)
-
-İstersen Netlify/Vercel’e tek tıkla da deploy edebilirsin.
+URL: https://emirhanyavuzz.github.io/emirhanyavuz.github.io
+ 
 
 📸 *Ekran Görüntüsü*
 
