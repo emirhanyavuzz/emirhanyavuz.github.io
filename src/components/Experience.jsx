@@ -8,29 +8,28 @@ const Experience = () => {
             title: 'Software Engineer Intern',
             company: 'INNOVA',
             date: 'September 2025 - December 2025',
-            description: 'Worked on full-stack development using Java Spring Boot and Vue.js.',
+            description: 'Worked on full-stack development using Java Spring Boot and Vue.js. Gained hands-on experience with Oracle Database and WebLogic server administration.',
         },
         {
             id: 2,
             title: 'Tech in Banking Intern',
             company: 'QNB Turkiye',
             date: 'Aug 2025 - Aug 2025',
-            description: 'Assisted in building the company website from scratch. Gained experience in HTML, CSS, and JavaScript.',
+            description: 'Interned in the banking technology division, focusing on data engineering concepts. Learned key financial and banking-sector terminology, strengthening my technical and domain knowledge.',
         },
         {
             id: 3,
             title: 'Test Engineer Intern',
             company: 'HAVELSAN',
             date: 'Jan 2025 - April 2025',
-            description: 'Collaborated with designers to implement responsive UI components. Used Vue.js and Tailwind CSS.',
+            description: 'Worked as a Test Engineer Intern on a multinational command-and-control export project. Participated in functional manual and automation testing using Selenium, Cucumber, and Java. Developed strong familiarity with military standards and defense-industry workflows.',
         },
-
         {
             id: 4,
             title: 'Java Developer Intern',
             company: 'AYESAŞ',
             date: 'May 2024 - Aug 2024',
-            description: 'Fixed bugs and added small features to existing client projects. Learned about version control with Git.',
+            description: 'Contributed to developing a support application designed for use on a naval platform, using Java and communication protocols within the Java ecosystem.',
         },
     ];
 
