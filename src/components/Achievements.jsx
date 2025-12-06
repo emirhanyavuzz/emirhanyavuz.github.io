@@ -8,35 +8,35 @@ const Achievements = () => {
             title: 'YKS-SAY',
             score: '1180th',
             description: 'University Entrance Exam',
-            icon: ''
+            icon: 'images/sayisal.png'
         },
         {
             id: 2,
             title: 'YKS-SOZ',
             score: '289th',
             description: 'University Entrance Exam',
-            icon: ''
+            icon: 'images/sozel.png'
         },
         {
             id: 3,
             title: 'TOEIC',
             score: '815',
             description: 'Foreign Language Exam (English)',
-            icon: ''
+            icon: 'images/dil.png'
         },
         {
             id: 4,
             title: 'ALES-SAY',
             score: '94',
             description: 'Academic Personnel and Graduate Education Entrance Exam',
-            icon: ''
+            icon: 'images/sayisal.png'
         },
         {
             id: 5,
             title: 'Bachelor\'s Degree',
             score: '3.02 GPA',
             description: 'Computer Engineering',
-            icon: ''
+            icon: 'images/tobb_logo.png'
         }
     ];
 
